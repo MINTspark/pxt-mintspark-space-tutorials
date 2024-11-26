@@ -1,22 +1,9 @@
 
 > Diese Seite bei [https://mintspark.github.io/pxt-mintspark-space-tutorials/](https://mintspark.github.io/pxt-mintspark-space-tutorials/) öffnen
 
-## Als Erweiterung verwenden
+## Tutorials
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/mintspark/pxt-mintspark-space-tutorials** suchen und importieren
-
-## Dieses Projekt bearbeiten
-
-Um dieses Repository in MakeCode zu bearbeiten.
-
-* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/mintspark/pxt-mintspark-space-tutorials** ein und klicke auf Importieren
+[Basic Motor Tutorial](/basic_motor)
 
 #### Metadaten (verwendet für Suche, Rendering)
 
