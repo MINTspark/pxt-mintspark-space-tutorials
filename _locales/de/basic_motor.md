@@ -1,5 +1,4 @@
 # Motor Tutorial
-### @hideIteration true
 ```package
 ms_nezhaV2=github:MINTspark/pxt-mintspark-ikv2
 ```
