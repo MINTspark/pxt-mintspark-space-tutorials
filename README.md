@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-[Basic Motor Tutorial](/basic_motor)
+[Basic Motor Tutorial](/basic_motor.md)
 
 #### Metadaten (verwendet für Suche, Rendering)
 
