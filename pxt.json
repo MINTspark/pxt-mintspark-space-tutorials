@@ -10,7 +10,8 @@
     "files": [
         "README.md",
         "basic_motor.md",
-        "_locales/de/basic_motor.md"
+        "_locales/de/basic_motor.md",
+        "_locales/de/README.md"
     ],
     "testFiles": [
         "test.ts"
