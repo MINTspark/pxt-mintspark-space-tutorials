@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-[Basic Motor Tutorial](/basic_motor.md) [Start Tutorial](https://makecode.microbit.org/#tutorial:github:mintspark/pxt-mintspark-space-tutorials/basic_motor)
+Basic Motor Tutorial: [Start Tutorial](https://makecode.microbit.org/#tutorial:github:mintspark/pxt-mintspark-space-tutorials/basic_motor)
 
 
 

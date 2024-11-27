@@ -29,10 +29,11 @@ music.play(music.tonePlayable(262, music.beat(BeatFraction.Whole)), music.Playba
 ms_nezhaV2.runMotor(MotorConnector.M1, 20)
 ms_nezhaV2.stopMotor(MotorConnector.M1)
 ms_nezhaV2.runMotorFor(MotorConnector.M1, 20, 1, MotorMovementMode.Turns)
+ms_nezhaV2.goToAbsolutePositionFromCode(MotorConnector.M1, 20, 0, ServoMovementMode.ShortPath)
 ms_nezhaV2.oledClear()
 ms_nezhaV2.oledShowNumber(1234, 1)
 ms_nezhaV2.oledShowText("Hello!", 1)
- ms_nezhaV2.ledBrightness(PlanetX_Display.DigitalRJPin.J1, false)
+ms_nezhaV2.ledBrightness(PlanetX_Display.DigitalRJPin.J1, false)
 input.onButtonPressed(Button.A, function () {  
 })
 input.onGesture(Gesture.Shake, function () {
